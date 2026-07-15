@@ -18,6 +18,7 @@ GitHub Actionsから定期実行される想定の統合スクリプト。
   SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, MAIL_TO
 """
 
+# ---------- 1. 標準ライブラリのインポート ----------
 import csv
 import glob
 import os
@@ -25,16 +26,24 @@ import re
 import smtplib
 import time
 import random
+import sys  # 追加
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from pathlib import Path
 
+# ---------- 2. 検索パスの追加（ModuleNotFoundError 対策） ----------
+ROOT = Path(__file__).resolve().parent.parent
+# scriptsフォルダをモジュール検索パスの先頭に差し込む
+sys.path.insert(0, str(ROOT / "scripts"))
+
+# ---------- 3. 外部ライブラリ・自作モジュールのインポート ----------
 import requests
 from playwright.sync_api import sync_playwright
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 
+# ここで自作モジュールを呼ぶ（これなら100%エラーを回避できます）
 from translate_dict import translate_genre, translate_name
 
 # ---------- 設定 ----------
