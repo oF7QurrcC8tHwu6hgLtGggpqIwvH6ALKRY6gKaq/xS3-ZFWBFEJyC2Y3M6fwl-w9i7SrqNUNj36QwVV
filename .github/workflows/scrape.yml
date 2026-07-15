@@ -1,0 +1,44 @@
+name: LootBar Market Scrape
+
+on:
+  schedule:
+    # 毎日 11:00 UTC = 20:00 JST
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # 手動実行ボタンも使えるようにする
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run scrape pipeline
+        working-directory: scripts
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python pipeline.py
+
+      - name: Commit results back to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update market data (${{ github.run_id }})"
+          file_pattern: "data/history/*.csv data/latest.csv output/*.xlsx scrape_log.txt"

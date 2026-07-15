@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LootBar 荒野行動マーケット価格一覧</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-title">
+    <span class="topbar-eyebrow">KNIVES OUT / 荒野行動</span>
+    <h1>LootBar マーケット価格一覧</h1>
+  </div>
+  <div class="topbar-meta">
+    <span class="live-dot" aria-hidden="true"></span>
+    <div class="updated-label">
+      <span class="updated-caption">最終更新日</span>
+      <span id="updated-date" class="updated-date">--</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="toolbar">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 1 0 4.66 13.4l5.72 5.72 1.42-1.42-5.72-5.72A7.5 7.5 0 0 0 10.5 3Zm-5.5 7.5a5.5 5.5 0 1 1 11 0 5.5 5.5 0 0 1-11 0Z"/></svg>
+      <input id="search-input" type="text" placeholder="商品名・ジャンルで検索" autocomplete="off">
+    </div>
+    <div class="result-count"><span id="result-count">0</span> 件表示</div>
+  </div>
+
+  <div class="table-scroll">
+    <table id="market-table">
+      <thead>
+        <tr>
+          <th class="col-no" data-key="no" data-type="num">No.</th>
+          <th class="col-name" data-key="name" data-type="str">商品名</th>
+          <th class="col-genre" data-key="genre" data-type="str">ジャンル</th>
+          <th class="col-num" data-key="lastPrice" data-type="num">直近成約価格<span class="unit">（円）</span></th>
+          <th class="col-date" data-key="lastDate" data-type="str">直近成約日</th>
+          <th class="col-num" data-key="count30" data-type="num">直近30日間<br>の成約数</th>
+          <th class="col-num" data-key="avgPrice" data-type="num">直近30日間の<br>平均成約価格<span class="unit">（円）</span></th>
+          <th class="col-num" data-key="minPrice" data-type="num">現在出品<br>最安値<span class="unit">（円）</span></th>
+          <th class="col-num" data-key="sellCount" data-type="num">現在出品数</th>
+        </tr>
+      </thead>
+      <tbody id="market-tbody">
+        <tr class="state-row"><td colspan="9">読み込み中...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="footnote">
+    データ出典: LootBar マーケット（非公式取得）。価格は取得時点のUSD建て値を為替レートで円換算した参考値です。
+  </p>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
