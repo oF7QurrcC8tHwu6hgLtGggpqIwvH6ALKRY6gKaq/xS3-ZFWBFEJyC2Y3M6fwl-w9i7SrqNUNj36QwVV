@@ -474,23 +474,32 @@ def build_excel(records, rate, rate_source):
 # ---------- メール送信 ----------
 def send_email(records_count, changes, declared_total_count, actual_count):
     host = os.environ.get("SMTP_HOST")
-    port = int(os.environ.get("SMTP_PORT", "587"))
+
+    # ポート番号が空文字でも安全に587にフォールバックする対策
+    port_env = os.environ.get("SMTP_PORT", "").strip()
+    port = int(port_env) if port_env else 587
+
     user = os.environ.get("SMTP_USER")
     password = os.environ.get("SMTP_PASSWORD")
-    mail_to = os.environ.get("MAIL_TO")
 
-    if not all([host, user, password, mail_to]):
-        log("[警告] メール送信用の環境変数が不足しているため、メール送信をスキップします。")
+    # --------------------------------------------------
+    # ★ 宛先（TO）の固定設定
+    # --------------------------------------------------
+    # 送信したい宛先メールアドレスをここに直接記述してください。
+    # 複数人に送りたい場合は、["aaa@gmail.com", "bbb@yahoo.co.jp"] のように並べます。
+    RECIPIENTS = [
+        "shouta12252002@icloud.com",
+    ]
+    # --------------------------------------------------
+
+    if not all([host, user, password]) or not RECIPIENTS:
+        log("[警告] メール送信用の環境変数、または宛先設定が不足しているため、メール送信をスキップします。")
         return
-
-    # MAIL_TOはカンマ区切りで複数指定可能。BCC方式で送るため、
-    # Toヘッダーには送信者自身のアドレスを入れ、実際の宛先はSMTP送信時にのみ指定する
-    # （メール本文のヘッダーには他の受信者アドレスが一切表示されない）
-    recipients = [addr.strip() for addr in mail_to.split(",") if addr.strip()]
 
     msg = EmailMessage()
     msg["Subject"] = f"[LootBar自動取得] {TODAY} 実行結果（{records_count}件）"
     msg["From"] = user
+    # Toヘッダーには送信者自身のアドレスを入れておき、BCCのように送信します（受信者に他人のアドレスを見せないため）
     msg["To"] = user
 
     body_lines = [
@@ -530,10 +539,10 @@ def send_email(records_count, changes, declared_total_count, actual_count):
     with smtplib.SMTP(host, port) as server:
         server.starttls()
         server.login(user, password)
-        server.send_message(msg, from_addr=user, to_addrs=recipients)
+        # to_addrsに固定したRECIPIENTSを渡して送信
+        server.send_message(msg, from_addr=user, to_addrs=RECIPIENTS)
 
-    log(f"[送信] メール送信完了(BCC方式): {len(recipients)}件の宛先")
-
+    log(f"[送信] メール送信完了(BCC方式): {len(RECIPIENTS)}件の宛先")
 
 # ---------- メイン ----------
 def main():
