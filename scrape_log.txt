@@ -1,4 +1,4 @@
-[為替レート] 1USD = 159.787727円 (open.er-api.com (取得日時: Tue, 01 Sep 2026 00:02:31 +0000))
+[為替レート] 1USD = 160.113803円 (open.er-api.com (取得日時: Wed, 02 Sep 2026 00:02:31 +0000))
 [EN][一覧取得] page 1/9  累計40件
 [EN][一覧取得] page 2/9  累計80件
 [EN][一覧取得] page 3/9  累計120件
@@ -7,8 +7,8 @@
 [EN][一覧取得] page 6/9  累計240件
 [EN][一覧取得] page 7/9  累計280件
 [EN][一覧取得] page 8/9  累計320件
-[EN][一覧取得] page 9/9  累計356件
-[EN][一覧取得完了] 取得件数=356  API申告件数=356
+[EN][一覧取得] page 9/9  累計357件
+[EN][一覧取得完了] 取得件数=357  API申告件数=357
 [JA][一覧取得] page 1/9  累計40件
 [JA][一覧取得] page 2/9  累計80件
 [JA][一覧取得] page 3/9  累計120件
@@ -17,18 +17,18 @@
 [JA][一覧取得] page 6/9  累計240件
 [JA][一覧取得] page 7/9  累計280件
 [JA][一覧取得] page 8/9  累計320件
-[JA][一覧取得] page 9/9  累計356件
-[JA][一覧取得完了] 取得件数=356  API申告件数=356
-[進捗] 50/356 件処理完了
-[進捗] 100/356 件処理完了
-[進捗] 150/356 件処理完了
-[進捗] 200/356 件処理完了
-[進捗] 250/356 件処理完了
-[進捗] 300/356 件処理完了
-[進捗] 350/356 件処理完了
-[進捗] 356/356 件処理完了
-[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-09-01.csv
+[JA][一覧取得] page 9/9  累計357件
+[JA][一覧取得完了] 取得件数=357  API申告件数=357
+[進捗] 50/357 件処理完了
+[進捗] 100/357 件処理完了
+[進捗] 150/357 件処理完了
+[進捗] 200/357 件処理完了
+[進捗] 250/357 件処理完了
+[進捗] 300/357 件処理完了
+[進捗] 350/357 件処理完了
+[進捗] 357/357 件処理完了
+[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-09-02.csv
 [保存] Web表示用最新データ: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/latest.csv
-[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-08-31.csv (356件)
+[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-09-01.csv (356件)
 [保存] Excel: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/output/lootbar_knivesout_market_list.xlsx
 [送信] メール送信完了(BCC方式): 1件の宛先
