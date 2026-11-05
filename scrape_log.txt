@@ -1,4 +1,4 @@
-[為替レート] 1USD = 158.39919円 (open.er-api.com (取得日時: Wed, 04 Nov 2026 00:02:31 +0000))
+[為替レート] 1USD = 158.377906円 (open.er-api.com (取得日時: Thu, 05 Nov 2026 00:02:31 +0000))
 [EN][一覧取得] page 1/9  累計40件
 [EN][一覧取得] page 2/9  累計80件
 [EN][一覧取得] page 3/9  累計120件
@@ -7,8 +7,8 @@
 [EN][一覧取得] page 6/9  累計240件
 [EN][一覧取得] page 7/9  累計280件
 [EN][一覧取得] page 8/9  累計320件
-[EN][一覧取得] page 9/9  累計359件
-[EN][一覧取得完了] 取得件数=359  API申告件数=359
+[EN][一覧取得] page 9/9  累計360件
+[EN][一覧取得完了] 取得件数=360  API申告件数=360
 [JA][一覧取得] page 1/9  累計40件
 [JA][一覧取得] page 2/9  累計80件
 [JA][一覧取得] page 3/9  累計120件
@@ -17,18 +17,18 @@
 [JA][一覧取得] page 6/9  累計240件
 [JA][一覧取得] page 7/9  累計280件
 [JA][一覧取得] page 8/9  累計320件
-[JA][一覧取得] page 9/9  累計359件
-[JA][一覧取得完了] 取得件数=359  API申告件数=359
-[進捗] 50/359 件処理完了
-[進捗] 100/359 件処理完了
-[進捗] 150/359 件処理完了
-[進捗] 200/359 件処理完了
-[進捗] 250/359 件処理完了
-[進捗] 300/359 件処理完了
-[進捗] 350/359 件処理完了
-[進捗] 359/359 件処理完了
-[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-04.csv
+[JA][一覧取得] page 9/9  累計360件
+[JA][一覧取得完了] 取得件数=360  API申告件数=360
+[進捗] 50/360 件処理完了
+[進捗] 100/360 件処理完了
+[進捗] 150/360 件処理完了
+[進捗] 200/360 件処理完了
+[進捗] 250/360 件処理完了
+[進捗] 300/360 件処理完了
+[進捗] 350/360 件処理完了
+[進捗] 360/360 件処理完了
+[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-05.csv
 [保存] Web表示用最新データ: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/latest.csv
-[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-03.csv (359件)
+[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-04.csv (359件)
 [保存] Excel: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/output/lootbar_knivesout_market_list.xlsx
 [送信] メール送信完了(BCC方式): 1件の宛先
