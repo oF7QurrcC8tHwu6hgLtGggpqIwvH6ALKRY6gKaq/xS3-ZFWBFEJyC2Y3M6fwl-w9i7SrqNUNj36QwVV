@@ -1,34 +1,36 @@
-[為替レート] 1USD = 158.555343円 (open.er-api.com (取得日時: Wed, 11 Nov 2026 00:02:32 +0000))
-[EN][一覧取得] page 1/9  累計40件
-[EN][一覧取得] page 2/9  累計80件
-[EN][一覧取得] page 3/9  累計120件
-[EN][一覧取得] page 4/9  累計160件
-[EN][一覧取得] page 5/9  累計200件
-[EN][一覧取得] page 6/9  累計240件
-[EN][一覧取得] page 7/9  累計280件
-[EN][一覧取得] page 8/9  累計320件
-[EN][一覧取得] page 9/9  累計360件
-[EN][一覧取得完了] 取得件数=360  API申告件数=360
-[JA][一覧取得] page 1/9  累計40件
-[JA][一覧取得] page 2/9  累計80件
-[JA][一覧取得] page 3/9  累計120件
-[JA][一覧取得] page 4/9  累計160件
-[JA][一覧取得] page 5/9  累計200件
-[JA][一覧取得] page 6/9  累計240件
-[JA][一覧取得] page 7/9  累計280件
-[JA][一覧取得] page 8/9  累計320件
-[JA][一覧取得] page 9/9  累計360件
-[JA][一覧取得完了] 取得件数=360  API申告件数=360
-[進捗] 50/360 件処理完了
-[進捗] 100/360 件処理完了
-[進捗] 150/360 件処理完了
-[進捗] 200/360 件処理完了
-[進捗] 250/360 件処理完了
-[進捗] 300/360 件処理完了
-[進捗] 350/360 件処理完了
-[進捗] 360/360 件処理完了
-[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-11.csv
+[為替レート] 1USD = 159.51378円 (open.er-api.com (取得日時: Thu, 12 Nov 2026 00:02:31 +0000))
+[EN][一覧取得] page 1/10  累計40件
+[EN][一覧取得] page 2/10  累計80件
+[EN][一覧取得] page 3/10  累計120件
+[EN][一覧取得] page 4/10  累計160件
+[EN][一覧取得] page 5/10  累計200件
+[EN][一覧取得] page 6/10  累計240件
+[EN][一覧取得] page 7/10  累計280件
+[EN][一覧取得] page 8/10  累計320件
+[EN][一覧取得] page 9/10  累計360件
+[EN][一覧取得] page 10/10  累計366件
+[EN][一覧取得完了] 取得件数=366  API申告件数=366
+[JA][一覧取得] page 1/10  累計40件
+[JA][一覧取得] page 2/10  累計80件
+[JA][一覧取得] page 3/10  累計120件
+[JA][一覧取得] page 4/10  累計160件
+[JA][一覧取得] page 5/10  累計200件
+[JA][一覧取得] page 6/10  累計240件
+[JA][一覧取得] page 7/10  累計280件
+[JA][一覧取得] page 8/10  累計320件
+[JA][一覧取得] page 9/10  累計360件
+[JA][一覧取得] page 10/10  累計366件
+[JA][一覧取得完了] 取得件数=366  API申告件数=366
+[進捗] 50/366 件処理完了
+[進捗] 100/366 件処理完了
+[進捗] 150/366 件処理完了
+[進捗] 200/366 件処理完了
+[進捗] 250/366 件処理完了
+[進捗] 300/366 件処理完了
+[進捗] 350/366 件処理完了
+[進捗] 366/366 件処理完了
+[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-12.csv
 [保存] Web表示用最新データ: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/latest.csv
-[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-10.csv (360件)
+[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-11.csv (360件)
 [保存] Excel: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/output/lootbar_knivesout_market_list.xlsx
 [送信] メール送信完了(BCC方式): 1件の宛先
