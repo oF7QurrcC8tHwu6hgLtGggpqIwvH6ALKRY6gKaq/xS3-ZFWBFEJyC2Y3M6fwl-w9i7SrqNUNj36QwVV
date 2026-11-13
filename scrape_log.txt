@@ -1,4 +1,4 @@
-[為替レート] 1USD = 159.51378円 (open.er-api.com (取得日時: Thu, 12 Nov 2026 00:02:31 +0000))
+[為替レート] 1USD = 159.795417円 (open.er-api.com (取得日時: Fri, 13 Nov 2026 00:02:31 +0000))
 [EN][一覧取得] page 1/10  累計40件
 [EN][一覧取得] page 2/10  累計80件
 [EN][一覧取得] page 3/10  累計120件
@@ -29,8 +29,8 @@
 [進捗] 300/366 件処理完了
 [進捗] 350/366 件処理完了
 [進捗] 366/366 件処理完了
-[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-12.csv
+[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-13.csv
 [保存] Web表示用最新データ: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/latest.csv
-[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-11.csv (360件)
+[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-12.csv (366件)
 [保存] Excel: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/output/lootbar_knivesout_market_list.xlsx
 [送信] メール送信完了(BCC方式): 1件の宛先
