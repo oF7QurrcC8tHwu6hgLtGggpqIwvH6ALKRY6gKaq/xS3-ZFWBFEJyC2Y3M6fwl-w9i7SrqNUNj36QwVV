@@ -1,0 +1,368 @@
+﻿goods_id,商品名,商品名_原文,ジャンル,ジャンル_原文,直近成約価格_円,直近成約日,直近30日間の成約数_近似,直近30日間の平均成約価格_円,現在出品最安値_円,現在出品最高値_円,現在出品参考価格_円,現在出品数,備考,取得日
+55,M4A1:全機待機 先鋒版(専属),M4A1: Golden Grandeur Vanguard Edition (Exclusive),銃器,Weapon,3181,2026-11-24,16,3181,3181,1590617,6362,191,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+56,M4A1:全機待機 豪華版(専属),M4A1: Golden Grandeur Enjoy Edition (Exclusive),銃器,Weapon,6362,2026-11-23,4,6362,6362,97236,12725,29,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+57,M4A1:全機待機 進化版(専属),M4A1: Golden Grandeur Advanced Edition (Exclusive),銃器,Weapon,12725,2026-11-24,3,12725,12725,12725,25450,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+58,M4A1:全機待機 旗艦版(専属),M4A1: Golden Grandeur Flagship Edition (Exclusive),銃器,Weapon,23859,2026-11-24,3,23859,0,0,47719,0,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+59,M4A1:全機待機 豪華版Ⅰ(専属),M4A1: Golden Grandeur Deluxe Edition I (Exclusive),銃器,Weapon,42947,2026-11-20,4,42947,42947,42947,85893,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+60,M4A1:全機待機 豪華版Ⅱ(専属),M4A1: Golden Grandeur Deluxe Edition II (Exclusive),銃器,Weapon,127249,2026-11-18,2,127249,127249,143156,254499,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+61,M4A1:全機待機 豪華版Ⅲ(専属),M4A1: Golden Grandeur Deluxe Edition III (Exclusive),銃器,Weapon,,,,,357889,357889,715778,2,直近30日間の取引データなし,2026-11-24
+62,95式:不知火舞 先鋒版(専属),QBZ-95: Mai Shiranui Vanguard Edition (Exclusive),銃器,Weapon,6331,2026-11-23,37,6207,6304,1590617,8748,121,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+63,95式:不知火舞 豪華版(専属),QBZ-95: Mai Shiranui Enjoy Edition (Exclusive),銃器,Weapon,9181,2026-11-24,54,9149,9836,151067,17497,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+64,95式:不知火舞 旗艦版(専属),QBZ-95: Mai Shiranui Flagship Edition (Exclusive),銃器,Weapon,15903,2026-11-24,27,14276,17503,42706,34994,8,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+65,星宿:メカストームボックス,Starway: Mechanical Storm Box,お宝 / 宝箱,Treasure / treasure chest,,,,,14610,39765,22269,3,直近30日間の取引データなし,2026-11-24
+66,星宿:ゴールドブレードボックス,Starway: Knife of the Golden Hall Box,お宝 / 宝箱,Treasure / treasure chest,,,,,94513,94513,22269,1,直近30日間の取引データなし,2026-11-24
+67,「不思議な庭園」愛蔵版限定BOX,[Mysterious Garden] Collection Box,お宝 / 宝箱,Treasure / treasure chest,,,,,397654,1590617,15906,2,直近30日間の取引データなし,2026-11-24
+68,「Pearl Daydream」限定BOX,Time Garden Day Box,お宝 / 宝箱,Treasure / treasure chest,,,,,29363,64437,5408,4,直近30日間の取引データなし,2026-11-24
+69,「Midnight Galaxy」限定BOX,Time Garden Midnight Box,お宝 / 宝箱,Treasure / treasure chest,,,,,22668,64437,5408,5,直近30日間の取引データなし,2026-11-24
+80,M27:天下無双 先鋒版(専属),M27: Second to None Vanguard Edition (Exclusive),銃器,Weapon,,,,,795,1590617,1591,551,直近30日間の取引データなし,2026-11-24
+81,M27:天下無双 豪華版(専属),M27: Second to None Enjoy Edition (Exclusive),銃器,Weapon,,,,,1591,229063,3181,116,直近30日間の取引データなし,2026-11-24
+82,M27:天下無双 進化版(専属),M27: Second to None Advanced Edition (Exclusive),銃器,Weapon,,,,,3181,270405,6362,18,直近30日間の取引データなし,2026-11-24
+83,M27:天下無双 旗艦版(専属),M27: Second to None Flagship Edition (Exclusive),銃器,Weapon,,,,,5726,22269,11452,19,直近30日間の取引データなし,2026-11-24
+84,M27:天下無双 豪華版Ⅰ(専属),M27: Second to None Deluxe Edition I (Exclusive),銃器,Weapon,,,,,11134,37173,22269,11,直近30日間の取引データなし,2026-11-24
+85,M27:天下無双 豪華版Ⅱ(専属),M27: Second to None Deluxe Edition II (Exclusive),銃器,Weapon,,,,,21473,140404,42947,3,直近30日間の取引データなし,2026-11-24
+86,M27:天下無双 豪華版Ⅲ(専属),M27: Second to None Deluxe Edition III (Exclusive),銃器,Weapon,39765,2026-11-17,1,39765,39765,323430,79531,20,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+164,"HUNTER×HUNTER
+トレーディングコラボガチャBOX",Hunter × Hunter collaboration Event Tradeable Lucky Draw,お宝 / 宝箱,Treasure / treasure chest,387,2026-11-16,2,1080,1551,15906,318,46,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+429,トレーディングコラボガチャ:Fate/stay night [Heaven's Feel],Tradable Lucky Draw: Fate/Stay Night [Heaven's Feel],お宝 / 宝箱,Treasure / treasure chest,,,,,1460,15906,318,23,直近30日間の取引データなし,2026-11-24
+430,AK-47:リヴァイ 進化版(専属),AK47: Strongest Human Enjoy Edition (Exclusive),銃器,Weapon,1272,2026-11-24,1,1272,1272,7953,2545,27,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+431,M4A1:進撃の巨人 先鋒版(専属),M4A1: Power Reverence Vanguard Edition (Exclusive),銃器,Weapon,795,2026-11-24,12,1063,1163,1586392,1591,327,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+432,M4A1:進撃の巨人 旗艦版(専属),M4A1: Power Reverence Flagship Edition (Exclusive),銃器,Weapon,1591,2026-11-24,28,1787,1591,1590617,3181,85,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+433,M4A1:進撃の巨人 豪華旗艦版(専属),M4A1: Power Reverence Deluxe Flagship Edition (Exclusive),銃器,Weapon,3181,2026-11-20,16,3181,3181,17137,6362,48,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+434,AK-47:リヴァイ 先鋒版(専属),AK47: Strongest Human Vanguard Edition (Exclusive),銃器,Weapon,636,2026-11-10,1,636,636,1590617,1272,386,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+435,AK-47:リヴァイ 旗艦版(専属),AK47: Strongest Human Flagship Edition (Exclusive),銃器,Weapon,2386,2026-11-21,7,2386,2386,11604,4772,64,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+436,M16A4:自由の翼 先鋒版(専属),M16A4: Liberty Wind Vanguard Edition (Exclusive),銃器,Weapon,1473,2026-11-21,4,1138,1541,636247,1619,195,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+437,M16A4:自由の翼 進化版(専属),M16A4: Liberty Wind Enjoy Edition (Exclusive),銃器,Weapon,1591,2026-11-13,7,2129,1863,12886,3181,25,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+438,M16A4:自由の翼 旗艦版(専属),M16A4: Liberty Wind Flagship Edition (Exclusive),銃器,Weapon,3181,2026-11-24,48,3300,3181,21262,6362,75,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+443,M27:ドラゴンフォース 旗艦版(専属),M27: Dragon Force Flagship Edition (exclusive),銃器,Weapon,6362,2026-11-24,20,6362,6362,30745,12725,96,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+444,P90:ドラゴンフォース 先鋒版(専属),P90: Dragon Force Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,,,,,795,6316,1591,57,直近30日間の取引データなし,2026-11-24
+445,P90:ドラゴンフォース 豪華版(専属),P90: Dragon Force Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,1591,2026-11-22,2,2026,2464,4180,3181,13,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+446,P90:ドラゴンフォース 旗艦版(専属),P90: Dragon Force Flagship Edition (exclusive),不明（カテゴリタグなし）,,3181,2026-11-14,10,3208,3181,318123,6362,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+447,SACR-L:ドラゴンフォース 先鋒版(専属),SACR-L: Dragon Force Vanguard Edition (Exclusive),銃器,Weapon,1591,2026-11-11,1,1591,1591,145616,3181,48,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+448,SACR-L:ドラゴンフォース 豪華版(専属),SACR-L: Dragon Force Enjoy Edition (Exclusive),銃器,Weapon,3181,2026-11-17,1,3181,3181,17498,6362,13,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+449,SACR-L:ドラゴンフォース 旗艦版(専属),SACR-L: Dragon Force Flagship Edition (Exclusive),銃器,Weapon,6362,2026-11-24,20,6362,6362,15217,12725,25,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+450,CS LR4:ドラゴンフォース 先鋒版(専属),CS/LR-4: Dragon Force Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,4263,2026-11-19,5,3649,4269,6160,4689,8,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+451,CS LR4:ドラゴンフォース 豪華版(専属),CS/LR-4: Dragon Force Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,6738,2026-11-20,6,5438,7158,8939,7412,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+452,CS LR4:ドラゴンフォース 旗艦版(専属),CS/LR-4: Dragon Force Flagship Edition (exclusive),不明（カテゴリタグなし）,,11172,2026-11-24,43,9450,11435,15582,10498,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+453,M27:ドラゴンフォース 先鋒版(専属),M27: Dragon Force Vanguard Edition (Exclusive),銃器,Weapon,1591,2026-11-15,1,1591,1591,8769,3181,43,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+454,M27:ドラゴンフォース 豪華版(専属),M27: Dragon Force Enjoy Edition (Exclusive),銃器,Weapon,,,,,3181,12725,6362,9,直近30日間の取引データなし,2026-11-24
+466,HK50:炎炎ノ消防隊 先鋒版(専属),HK50: Blaze Firefighters Vanguard Edition (Exclusive),銃器,Weapon,,,,,779,5908,795,25,直近30日間の取引データなし,2026-11-24
+467,HK50:炎炎ノ消防隊 豪華版(専属),HK50: Blaze Firefighters Enjoy Edition (Exclusive),銃器,Weapon,,,,,970,2634,1591,11,直近30日間の取引データなし,2026-11-24
+468,HK50:炎炎ノ消防隊 旗艦版(専属),HK50: Blaze Firefighters Flagship Edition (Exclusive),銃器,Weapon,159,2026-11-09,2,557,1947,6362,3181,6,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+469,M860:ハーレイ･クイン 先鋒版(専属),M860: Harley Quinn Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,,,,,2041,4171,795,9,直近30日間の取引データなし,2026-11-24
+470,M860:ハーレイ･クイン 豪華版(専属),M860: Harley Quinn Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,4389,2026-11-17,1,4389,0,0,1591,0,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+471,M860:ハーレイ･クイン 旗艦版(専属),M860: Harley Quinn Flagship Edition (Exclusive),不明（カテゴリタグなし）,,3872,2026-11-20,3,3996,6840,7158,4258,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+472,AUG:ハーレイ･クイン 先鋒版(専属),AUG: Harley Quinn Vanguard Edition (Exclusive),銃器,Weapon,,,,,795,4850,795,20,直近30日間の取引データなし,2026-11-24
+473,AUG:ハーレイ･クイン 豪華版(専属),AUG: Harley Quinn Enjoy Edition (Exclusive),銃器,Weapon,,,,,1909,11359,1591,13,直近30日間の取引データなし,2026-11-24
+474,AUG:ハーレイ･クイン 旗艦版(専属),AUG: Harley Quinn Flagship Edition (exclusive),銃器,Weapon,2545,2026-11-08,1,2545,2938,30767,3181,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+476,初号機95式 Ⅲ型(専属),QBZ-95: Unit-01 Type III (Exclusive),銃器,Weapon,6323,2026-11-18,4,5777,7248,7345,6954,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+477,初号機95式 覚醒型(専属),QBZ-95: Unit-01 Awakening(Exclusive),銃器,Weapon,9614,2026-11-24,38,9642,9523,30807,12725,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+478,初号機95式 Ⅱ型(専属),QBZ-95: Unit-01 Type II (Exclusive),銃器,Weapon,3984,2026-11-24,35,3529,4279,10384,4256,7,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+479,初号機95式 Ⅰ型(専属),QBZ-95: Unit-01 Type I (Exclusive),銃器,Weapon,3428,2026-11-23,8,2595,3429,11373,3765,16,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+516,M27:ハンコック Lv.1(専属),M27: Pirate Empress Vanguard Edition (Exclusive),銃器,Weapon,,,,,1113,2863,2863,7,直近30日間の取引データなし,2026-11-24
+517,M27:ハンコック Lv.2(専属),M27: Pirate Empress Enjoy Edition (Exclusive),銃器,Weapon,,,,,3482,3482,5090,1,直近30日間の取引データなし,2026-11-24
+518,M27:ハンコック Lv.3(専属),M27: Pirate Empress Advanced Edition (Exclusive),銃器,Weapon,,,,,0,0,9862,0,直近30日間の取引データなし,2026-11-24
+519,M27:ハンコック Lv.4(専属),M27: Pirate Empress Flagship Edition (Exclusive),銃器,Weapon,,,,,17956,19087,19087,2,直近30日間の取引データなし,2026-11-24
+520,M27:ハンコック Lv.5(専属),M27: Pirate Empress Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,31812,0,直近30日間の取引データなし,2026-11-24
+521,M27:ハンコック Lv.6(専属),M27: Pirate Empress Deluxe Edition II (Exclusive),銃器,Weapon,,,,,0,0,42947,0,直近30日間の取引データなし,2026-11-24
+522,M27:ハンコック Lv.7(専属),M27: Empress Deluxe Edition III(Exclusive),銃器,Weapon,,,,,19087,19087,50900,3,直近30日間の取引データなし,2026-11-24
+523,「HEADLINERS:星の演説者」BOX,Rainbow Sounds: Planet Speech Box,お宝 / 宝箱,Treasure / treasure chest,,,,,8907,31812,22269,2,直近30日間の取引データなし,2026-11-24
+524,「HEADLINERS:センターステップ」BOX,Rainbow Sounds: Fantasy Dance Box,お宝 / 宝箱,Treasure / treasure chest,,,,,47719,47719,22269,1,直近30日間の取引データなし,2026-11-24
+525,95式:チョッパー Lv.1(専属),QBZ-95: Chopper Pioneer Edition (Exclusive),銃器,Weapon,,,,,321,3725,1591,80,直近30日間の取引データなし,2026-11-24
+526,95式:チョッパー Lv.2(専属),QBZ-95: Chopper Enjoyment Edition (Exclusive),銃器,Weapon,636,2026-11-11,1,636,636,5066,3181,37,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+527,95式:チョッパー Lv.3(専属),95式:乔巴 Aggressive Edition (Exclusive),銃器,Weapon,,,,,3916,5058,6362,3,直近30日間の取引データなし,2026-11-24
+528,95式:チョッパー Lv.4(専属),QBZ-95: Chopper Flagship Edition (Exclusive),銃器,Weapon,,,,,2545,1492066,11452,19,直近30日間の取引データなし,2026-11-24
+529,95式:チョッパー Lv.5(専属),QBZ-95: Chopper Deluxe Edition I(Exclusive),銃器,Weapon,4780,2026-11-17,1,4780,7519,7519,9544,1,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+530,95式:チョッパー Lv.6(専属),QBZ-95: Chopper Deluxe Edition II (Exclusive),銃器,Weapon,,,,,8748,21074,17497,5,直近30日間の取引データなし,2026-11-24
+531,95式:チョッパー Lv.7(専属),QBZ-95: Chopper Deluxe Edition III (Exclusive),銃器,Weapon,,,,,17497,27203,31812,3,直近30日間の取引データなし,2026-11-24
+532,AK14:チョッパー Lv.1(専属),AK14: Chopper Vanguard Edition (Exclusive),銃器,Weapon,318,2026-11-15,3,313,356,6410,318,41,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+533,AK14:チョッパー Lv.2(専属),AK14: Chopper Enjoy Edition (Exclusive),銃器,Weapon,539,2026-11-01,1,539,318,5216,636,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+534,AK14:チョッパー Lv.3(専属),AK14: Chopper Advanced Edition (Exclusive),銃器,Weapon,,,,,0,0,1272,0,直近30日間の取引データなし,2026-11-24
+535,AK14:チョッパー Lv.4(専属),AK14: Chopper Flagship Edition (Exclusive),銃器,Weapon,,,,,5726,5726,2545,1,直近30日間の取引データなし,2026-11-24
+536,AK14:チョッパー Lv.5(専属),AK14: Chopper Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,5090,0,直近30日間の取引データなし,2026-11-24
+537,AK14:チョッパー Lv.6(専属),AK14: Chopper Deluxe Edition II (Exclusive),銃器,Weapon,,,,,23264,23264,10180,1,直近30日間の取引データなし,2026-11-24
+538,AK14:チョッパー Lv.7(専属),AK14: Chopper Deluxe Edition III (Exclusive),銃器,Weapon,,,,,0,0,20360,0,直近30日間の取引データなし,2026-11-24
+539,SK12:チョッパー Lv.1(専属),SK12: Chopper Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,31927,2026-10-27,1,31927,159,1590458,795,363,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+540,SK12:チョッパー Lv.2(専属),SK12: Chopper Deluxe Edition (Exclusive),不明（カテゴリタグなし）,,525,2026-11-22,2,439,732,34771,1591,55,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+541,SK12:チョッパー Lv.3(専属),SK12: Chopper Deluxe Edition (Exclusive),不明（カテゴリタグなし）,,676,2026-11-18,1,676,1591,3172,3181,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+542,SK12:チョッパー Lv.4(専属),SK12: Chopper Flagship Edition (Exclusive),不明（カテゴリタグなし）,,,,,,2941,6362,6362,3,直近30日間の取引データなし,2026-11-24
+543,SK12:チョッパー Lv.5(専属),SK12: Chopper Deluxe Edition I (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,10180,0,直近30日間の取引データなし,2026-11-24
+544,SK12:チョッパー Lv.6(専属),SK12: Chopper Deluxe Edition II (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,14316,0,直近30日間の取引データなし,2026-11-24
+545,SK12:チョッパー Lv.7(専属),SK12: Chopper Deluxe Edition III (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,17497,0,直近30日間の取引データなし,2026-11-24
+546,UZI:チョッパー Lv.1(専属),UZI: Chopper Pioneer Edition (Exclusive),不明（カテゴリタグなし）,,159,2026-11-12,1,159,484,86447,795,58,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+547,UZI:チョッパー Lv.2(専属),UZI: Chopper Premium Edition (Exclusive),不明（カテゴリタグなし）,,,,,,795,5287,1591,10,直近30日間の取引データなし,2026-11-24
+548,UZI:チョッパー Lv.3(専属),UZI: Tony Tony Chopper Enterprising Edition (Exclusive),不明（カテゴリタグなし）,,,,,,4772,4772,3181,1,直近30日間の取引データなし,2026-11-24
+549,UZI:チョッパー Lv.4(専属),UZI: Tony Tony Chopper Flagship Edition (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,6362,0,直近30日間の取引データなし,2026-11-24
+550,UZI:チョッパー Lv.5(専属),UZI: Chopper Deluxe Edition I (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,10180,0,直近30日間の取引データなし,2026-11-24
+551,UZI:チョッパー Lv.6(専属),UZI: Chopper Deluxe Edition II (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,14316,0,直近30日間の取引データなし,2026-11-24
+552,UZI:チョッパー Lv.7(専属),UZI: Chopper Deluxe Edition III(Exclusive),不明（カテゴリタグなし）,,,,,,0,0,17497,0,直近30日間の取引データなし,2026-11-24
+553,AUG:ハンコック Lv.1(専属),AUG: Pirate Empress Pioneer Edition (Exclusive),銃器,Weapon,,,,,1113,3113,2863,7,直近30日間の取引データなし,2026-11-24
+554,AUG:ハンコック Lv.2(専属),AUG: Pirate Empress Enjoy Version (Exclusive),銃器,Weapon,,,,,3488,3488,5090,1,直近30日間の取引データなし,2026-11-24
+555,AUG:ハンコック Lv.3(専属),AUG: Pirate Empress Advanced Edition (Exclusive),銃器,Weapon,,,,,5206,5206,9862,1,直近30日間の取引データなし,2026-11-24
+556,AUG:ハンコック Lv.4(専属),AUG: Pirate Empress Flagship Edition (Exclusive),銃器,Weapon,,,,,7158,7158,19087,1,直近30日間の取引データなし,2026-11-24
+557,AUG:ハンコック Lv.5(専属),AUG: Pirate Empress Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,31812,0,直近30日間の取引データなし,2026-11-24
+558,AUG:ハンコック Lv.6(専属),AUG: Pirate Empress Deluxe Edition II (Exclusive),銃器,Weapon,,,,,18071,18071,42947,1,直近30日間の取引データなし,2026-11-24
+559,AUG:ハンコック Lv.7(専属),AUG: Pirate Empress Deluxe Edition III (Exclusive),銃器,Weapon,,,,,0,0,50900,0,直近30日間の取引データなし,2026-11-24
+560,81式:ハンコック Lv.1(専属),81式: Pirate Empress Vanguard Edition (Exclusive),銃器,Weapon,1113,2026-10-26,1,1113,1113,2704,2863,14,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+561,81式:ハンコック Lv.2(専属),Type 81: Pirate Empress Enjoyment Edition (Exclusive),銃器,Weapon,,,,,0,0,5090,0,直近30日間の取引データなし,2026-11-24
+562,81式:ハンコック Lv.3(専属),Type 81: Pirate Empress Advanced Edition (Exclusive),銃器,Weapon,,,,,0,0,9862,0,直近30日間の取引データなし,2026-11-24
+563,81式:ハンコック Lv.4(専属),Type 81: Pirate Empress Flagship Edition (Exclusive),銃器,Weapon,,,,,0,0,19087,0,直近30日間の取引データなし,2026-11-24
+564,81式:ハンコック Lv.5(専属),Type 81: Pirate Empress Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,31812,0,直近30日間の取引データなし,2026-11-24
+565,81式:ハンコック Lv.6(専属),Type 81: Pirate Empress Deluxe Edition II (Exclusive),銃器,Weapon,,,,,0,0,42947,0,直近30日間の取引データなし,2026-11-24
+566,81式:ハンコック Lv.7(専属),81式: Pirate Empress Deluxe Edition III(Exclusive),銃器,Weapon,,,,,0,0,50900,0,直近30日間の取引データなし,2026-11-24
+576,輸送機:クロノエージェント,Fighter Plane: Epochal Energy,乗り物 / 輸送機,Vehicle / Transport Aircraft,,,,,0,0,79531,0,直近30日間の取引データなし,2026-11-24
+577,輸送機:クロノエージェント 精錬Ⅰ,Fighter Plane: Epochal Energy Phantasm I,乗り物 / 輸送機,Vehicle / Transport Aircraft,,,,,87484,97654,111343,11,直近30日間の取引データなし,2026-11-24
+578,輸送機:クロノエージェント 精錬Ⅱ,Fighter Plane: Epochal Energy Phantasm II,乗り物 / 輸送機,Vehicle / Transport Aircraft,,,,,111343,111343,143156,13,直近30日間の取引データなし,2026-11-24
+579,輸送機:クロノエージェント 精錬Ⅲ,Fighter Plane: Epochal Energy Phantasm III,乗り物 / 輸送機,Vehicle / Transport Aircraft,,,,,127249,127249,159062,3,直近30日間の取引データなし,2026-11-24
+580,輸送機:クロノエージェント 精錬Ⅳ,Fighter Plane: Epochal Energy Phantasm IV,乗り物 / 輸送機,Vehicle / Transport Aircraft,,,,,159062,159062,190874,1,直近30日間の取引データなし,2026-11-24
+581,輸送機:クロノエージェント 精錬Ⅴ,Fighter Plane: Epochal Energy Phantasm V,乗り物 / 輸送機,Vehicle / Transport Aircraft,214733,2026-10-26,1,214733,214733,254499,254499,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+582,AK-47:ゾロ Lv.1(専属),AK47: Zoro Vanguard Edition (Exclusive),銃器,Weapon,,,,,1113,2279,2227,4,直近30日間の取引データなし,2026-11-24
+583,AK-47:ゾロ Lv.2(専属),AK47: Zoro Enjoy Edition (Exclusive),銃器,Weapon,,,,,3814,5882,3977,2,直近30日間の取引データなし,2026-11-24
+584,AK-47:ゾロ Lv.3(専属),AK47: Zoro Deluxe Edition (Exclusive),銃器,Weapon,,,,,0,0,7953,0,直近30日間の取引データなし,2026-11-24
+585,AK-47:ゾロ Lv.4(専属),AK47: Zoro Flagship Edition (Exclusive),銃器,Weapon,,,,,7158,14316,14316,4,直近30日間の取引データなし,2026-11-24
+586,AK-47:ゾロ Lv.5(専属),AK47: Zoro Deluxe Edition I(Exclusive),銃器,Weapon,,,,,0,0,22905,0,直近30日間の取引データなし,2026-11-24
+587,AK-47:ゾロ Lv.6(専属),MK5:総長の威光,銃器,Weapon,,,,,15906,15906,31812,2,直近30日間の取引データなし,2026-11-24
+588,AK-47:ゾロ Lv.7(専属),AK47: Zoro Deluxe Edition III (Exclusive),銃器,Weapon,,,,,19087,41296,38175,6,直近30日間の取引データなし,2026-11-24
+589,AUG:ゾロ Lv.1(専属),AUG: Zoro Vanguard Edition (Exclusive),銃器,Weapon,,,,,1936,1936,2227,1,直近30日間の取引データなし,2026-11-24
+590,AUG:ゾロ Lv.2(専属),AUG: Zoro Enjoy Edition (Exclusive),銃器,Weapon,2249,2026-11-12,1,2249,3181,5712,3977,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+591,AUG:ゾロ Lv.3(専属),AUG: Zoro Initiative Edition (Exclusive),銃器,Weapon,,,,,3977,6496,7953,3,直近30日間の取引データなし,2026-11-24
+592,AUG:ゾロ Lv.4(専属),AUG: Zoro Flagship Edition (Exclusive),銃器,Weapon,,,,,7158,11950,14316,5,直近30日間の取引データなし,2026-11-24
+593,AUG:ゾロ Lv.5(専属),AUG: Zoro Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,22905,0,直近30日間の取引データなし,2026-11-24
+594,AUG:ゾロ Lv.6(専属),AUG: Zoro Deluxe Edition II (Exclusive),銃器,Weapon,,,,,0,0,31812,0,直近30日間の取引データなし,2026-11-24
+595,M4A1:ゾロ Lv.1(専属),M4A1: Zoro Vanguard Edition (Exclusive),銃器,Weapon,,,,,0,0,3181,0,直近30日間の取引データなし,2026-11-24
+596,M4A1:ゾロ Lv.2(専属),M4A1: Zoro Grandeur Enjoy Edition (Exclusive),銃器,Weapon,,,,,4950,4950,6362,1,直近30日間の取引データなし,2026-11-24
+597,M4A1:ゾロ Lv.3(専属),M4A1: Zoro Advance Edition (Exclusive),銃器,Weapon,,,,,6362,6362,12725,1,直近30日間の取引データなし,2026-11-24
+598,M4A1:ゾロ Lv.4(専属),M4A1: Zoro Flagship Edition (Exclusive),銃器,Weapon,,,,,9544,15994,19087,8,直近30日間の取引データなし,2026-11-24
+599,M4A1:ゾロ Lv.5(専属),M4A1: Zoro Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,28631,0,直近30日間の取引データなし,2026-11-24
+600,M4A1:ゾロ Lv.6(専属),M4A1: Zoro Deluxe Edition II (Exclusive),銃器,Weapon,,,,,21473,21473,47719,1,直近30日間の取引データなし,2026-11-24
+601,M4A1:ゾロ Lv.7(専属),M4A1: Zoro Deluxe Edition III (Exclusive),銃器,Weapon,,,,,28631,28631,71578,11,直近30日間の取引データなし,2026-11-24
+602,AUG:ゾロ Lv.7(専属),AUG: Zoro Deluxe Edition III(Exclusive),銃器,Weapon,,,,,19087,19087,38175,2,直近30日間の取引データなし,2026-11-24
+604,M4A1:進撃の巨人 豪華旗艦版+(専属),M4A1: Power Reverence Deluxe Flagship Edition+ (Exclusive),銃器,Weapon,6362,2026-11-24,11,6375,6362,12816,12725,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+606,光り輝く夢(専属),Shining Dream (Exclusive),衣装 / セット,Outfit / Set,,,,,1066,1836,318,7,直近30日間の取引データなし,2026-11-24
+607,マシュマロバニー(専属),Bonnie Cotton Candy (Exclusive),衣装 / セット,Outfit / Set,620,2026-11-24,3,400,633,5193,682,23,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+608,トレーディングコラボガチャBOX:チェンソーマン第2弾,Tradable collaboration Lucky Draw: Chainsaw Man Phase 2,お宝 / 宝箱,Treasure / treasure chest,1591,2026-11-18,1,1591,1591,1591,1750,234,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+632,トレーディングコラボガチャBOX:転スラ第1弾,Tradable Lucky Draw: That Time I Got Reincarnated as a Slime Phase 1,お宝 / 宝箱,Treasure / treasure chest,,,,,1591,13562,318,818,直近30日間の取引データなし,2026-11-24
+633,M4A1:クロノエージェント 先鋒版,M4A1: Epochal Energy Vanguard Edition,銃器,Weapon,,,,,2084,6362,3181,16,直近30日間の取引データなし,2026-11-24
+634,M4A1:クロノエージェント 豪華版,M4A1: Epochal Energy Enjoy Edition,銃器,Weapon,,,,,3339,10797,3977,48,直近30日間の取引データなし,2026-11-24
+635,M4A1:クロノエージェント 進化版,M4A1: Epochal Energy Advanced Edition,銃器,Weapon,,,,,0,0,4772,0,直近30日間の取引データなし,2026-11-24
+636,M4A1:クロノエージェント 旗艦版,M4A1: Epochal Energy Flagship Edition,銃器,Weapon,,,,,4454,53791,6362,20,直近30日間の取引データなし,2026-11-24
+637,M4A1:クロノエージェント 豪華版Ⅰ,M4A1: Epochal Energy Deluxe Edition I,銃器,Weapon,,,,,0,0,12725,0,直近30日間の取引データなし,2026-11-24
+638,M4A1:クロノエージェント 豪華版Ⅱ,M4A1: Epochal Energy Deluxe Edition II,銃器,Weapon,,,,,9544,17430,19087,11,直近30日間の取引データなし,2026-11-24
+639,M4A1:クロノエージェント 豪華版Ⅲ,M4A1: Epochal Energy Deluxe Edition III,銃器,Weapon,,,,,0,0,25450,0,直近30日間の取引データなし,2026-11-24
+640,M4A1:クロノエージェント･周年DX I,M4A1: Epochal Energy - Anniversary Platinum I,銃器,Weapon,15906,2026-11-24,25,15906,15906,39765,31812,35,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+641,M4A1:クロノエージェント･周年DX II,M4A1: Epochal Energy - Anniversary Platinum II,銃器,Weapon,38175,2026-11-23,14,38175,38175,63574,76350,19,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+642,M4A1:クロノエージェント･周年DX III,M4A1: Epochal Energy - Anniversary Platinum III,銃器,Weapon,,,,,0,0,206780,0,直近30日間の取引データなし,2026-11-24
+643,カエルサプライズ･超レア(取引可能),Frog Surprise - Super rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,,,,,159,10406,318,249,直近30日間の取引データなし,2026-11-24
+646,トレーディングコラボガチャ:にじさんじ,Tradable Lucky Draw: NIJISANJI,お宝 / 宝箱,Treasure / treasure chest,,,,,1591,1591,318,333,直近30日間の取引データなし,2026-11-24
+657,AWM:雷槍 先鋒版(専属),AWM: Thunder Gun Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,,,,,795,1590617,1591,72,直近30日間の取引データなし,2026-11-24
+658,AWM:雷槍 豪華版(専属),AWM: Thunder Gun Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,1591,2026-11-19,2,1591,1626,3258,3181,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+659,AWM:雷槍 旗艦版(専属),AWM: Thunder Gun Flagship Edition (Exclusive),不明（カテゴリタグなし）,,3181,2026-11-07,2,3181,3181,6362,6362,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+660,M16A4:信念の戦い 先鋒版(専属),M16A4: Battle of Faith Vanguard Edition (Exclusive),銃器,Weapon,,,,,795,1590617,1591,182,直近30日間の取引データなし,2026-11-24
+661,M16A4:信念の戦い 豪華版(専属),M16A4: Battle of Faith Enjoy Edition (Exclusive),銃器,Weapon,,,,,1591,19289,3181,33,直近30日間の取引データなし,2026-11-24
+662,M16A4:信念の戦い 旗艦版(専属),M16A4: Battle of Faith Flagship Edition (Exclusive),銃器,Weapon,,,,,3181,6654,6362,15,直近30日間の取引データなし,2026-11-24
+693,トレーディングコラボガチャBOX:呪術廻戦第1弾,Tradable Lucky Draw: Jujutsu Kaisen Phase 1,お宝 / 宝箱,Treasure / treasure chest,1591,2026-11-24,1,1591,1591,1591,1750,135,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+711,M4A1:2号機 先鋒版(専属),M4A1: Unit-02 Vanguard Edition (Exclusive),銃器,Weapon,980,2026-10-31,1,980,2076,30349,1591,30,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+712,M4A1:2号機 豪華版(専属),M4A1: Unit-02 Enjoy Edition (Exclusive),銃器,Weapon,3652,2026-11-20,3,3357,2914,3870,4016,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+713,M4A1:2号機 旗艦版(専属),M4A1: Unit-02 Flagship Edition (Exclusive),銃器,Weapon,3625,2026-11-24,52,3560,3627,10339,6362,44,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+714,89式:零号機 先鋒版(専属),AR-18: Unit-00 Vanguard Edition (Exclusive),銃器,Weapon,159,2026-11-24,4,210,243,4939,318,29,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+715,89式:零号機 豪華版(専属),AR-18: Unit-00 Enjoy Edition (Exclusive),銃器,Weapon,318,2026-11-24,2,354,1008,1161,636,7,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+716,89式:零号機 旗艦版(専属),AR-18: Unit-00 Flagship Edition (Exclusive),銃器,Weapon,1457,2026-11-21,3,910,1452,9776,1602,18,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+741,トレーディングガチャBOX:DEATH NOTE,Tradable Lucky Draw: DEATH NOTE,お宝 / 宝箱,Treasure / treasure chest,,,,,1591,5424,318,142,直近30日間の取引データなし,2026-11-24
+742,脱走･殿堂の秘宝(取引可能),Breakout: Golden Treasure (Tradeable),お宝 / 宝箱,Treasure / treasure chest,485,2026-11-20,3,1442,485,15906,533,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+743,森羅万象･第六天魔王車両BOX(取引可能),Panorama: The Sixth Heaven Dark Lord Vehicle Chest (tradable),お宝 / 宝箱,Treasure / treasure chest,,,,,95437,95437,127249,5,直近30日間の取引データなし,2026-11-24
+744,殿堂水晶BOX(取引可能),Palace Crystal Treasure Box (Tradable),お宝 / 宝箱,Treasure / treasure chest,,,,,0,0,42947,0,直近30日間の取引データなし,2026-11-24
+778,CS LR4:双生の輪廻 先鋒版(専属),CS/LR-4: Light and Night Samsara Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,,,,,2227,2227,2227,1,直近30日間の取引データなし,2026-11-24
+779,CS LR4:双生の輪廻 豪華版(専属),CS/LR-4: Light and Night Samsara Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,,,,,2720,3340,3977,3,直近30日間の取引データなし,2026-11-24
+780,CS LR4:双生の輪廻 進化版(専属),CS/LR-4: Light and Night Samsara Advanced Edition (Exclusive),不明（カテゴリタグなし）,,,,,,0,0,7953,0,直近30日間の取引データなし,2026-11-24
+781,CS LR4:双生の輪廻 旗艦版(専属),CS/LR-4: Light and Night Samsara Flagship Edition (Exclusive),不明（カテゴリタグなし）,,,,,,7158,14285,14316,23,直近30日間の取引データなし,2026-11-24
+782,CS LR4:双生の輪廻 豪華版Ⅰ(専属),CS/LR-4: Light and Night Samsara Deluxe Edition I (Exclusive),不明（カテゴリタグなし）,,,,,,11452,11452,22905,1,直近30日間の取引データなし,2026-11-24
+783,CS LR4:双生の輪廻 豪華版Ⅱ(専属),CS/LR-4: Light and Night Samsara Deluxe Edition II (Exclusive),不明（カテゴリタグなし）,,,,,,15906,27414,31812,7,直近30日間の取引データなし,2026-11-24
+784,CS LR4:双生の輪廻 豪華版Ⅲ(専属),CS/LR-4: Light and Night Samsara Deluxe Edition III (Exclusive),不明（カテゴリタグなし）,,,,,,19087,29415,38175,30,直近30日間の取引データなし,2026-11-24
+785,95式:メインボーカル 先鋒版(専属),QBZ-95: Spotlight Vocalist Vanguard Edition (Exclusive),銃器,Weapon,,,,,0,0,3181,0,直近30日間の取引データなし,2026-11-24
+786,95式:メインボーカル 豪華版(専属),QBZ-95: Spotlight Vocalist Enjoy Edition (Exclusive),銃器,Weapon,,,,,6362,6362,6362,2,直近30日間の取引データなし,2026-11-24
+787,95式:メインボーカル 進化版(専属),QBZ-95: Spotlight Vocalist Progressive Edition (Exclusive),銃器,Weapon,,,,,0,0,12725,0,直近30日間の取引データなし,2026-11-24
+788,95式:メインボーカル 旗艦版(専属),QBZ-95: Spotlight Vocalist Flagship Edition (Exclusive),銃器,Weapon,,,,,9544,9544,19087,8,直近30日間の取引データなし,2026-11-24
+789,95式:メインボーカル 豪華版Ⅰ(専属),QBZ-95: Spotlight Lead Singer Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,28631,0,直近30日間の取引データなし,2026-11-24
+790,95式:メインボーカル 豪華版Ⅱ(専属),QBZ-95: Spotlight Lead Singer Deluxe Edition II (Exclusive),銃器,Weapon,,,,,21473,21473,42947,1,直近30日間の取引データなし,2026-11-24
+791,95式:メインボーカル 豪華版Ⅲ(専属),QBZ-95: Spotlight Lead Singer Deluxe Edition III (Exclusive),銃器,Weapon,,,,,28631,28631,57262,22,直近30日間の取引データなし,2026-11-24
+792,スチールホイール,Alloy Wheels,チップ / チップ,Chip / Chip,159,2026-11-21,1,159,159,159062,318,407,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+793,衝突ドレイン,Blood Frenzy,チップ / チップ,Chip / Chip,159,2026-11-21,3,159,159,159062,318,378,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+794,中級防護,Lv. 1 Armor,チップ / チップ,Chip / Chip,159,2026-11-21,2,159,159,103489,318,306,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+795,爆発抑制,Explosion Delay,チップ / チップ,Chip / Chip,,,,,0,0,318,0,直近30日間の取引データなし,2026-11-24
+796,敏捷なハンドリング,Agile Steering,チップ / チップ,Chip / Chip,159,2026-11-21,1,159,159,29337,318,388,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+797,ハンドルの同期,Steering Sync,チップ / チップ,Chip / Chip,159,2026-11-01,1,159,159,157046,318,549,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+798,究極防振,Ultimate Shock Absorption,チップ / チップ,Chip / Chip,159,2026-11-21,3,159,159,159062,318,485,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+799,慣性改善,Inertia Optimization,チップ / チップ,Chip / Chip,,,,,0,0,318,0,直近30日間の取引データなし,2026-11-24
+800,ハイスピードターボ,Turbo Speed,チップ / チップ,Chip / Chip,159,2026-11-21,2,159,159,159062,318,439,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+801,パワーコア,Power Core,チップ / チップ,Chip / Chip,159,2026-11-21,2,159,159,159062,318,589,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+802,最適なトルク,Best Torque,チップ / チップ,Chip / Chip,159,2026-11-01,1,159,159,159062,318,581,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+803,電光石火,Move like the wind.,チップ / チップ,Chip / Chip,,,,,0,0,318,0,直近30日間の取引データなし,2026-11-24
+850,【オーロラ】取引可能BOX,"""Azure Sky"" Tradable Gift Box",お宝 / 宝箱,Treasure / treasure chest,983,2026-11-03,3,950,983,15906,318,12,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+856,M16A4:青薔薇の剣 豪華版Ⅲ(専属),M16A4: Blue Rose Sword Gun Deluxe Edition III (Exclusive),銃器,Weapon,,,,,19087,19087,38175,1,直近30日間の取引データなし,2026-11-24
+857,ルフィ Ⅰ(専属),Luffy I (Exclusive),衣装 / セット,Outfit / Set,,,,,4454,6342,6362,4,直近30日間の取引データなし,2026-11-24
+858,ルフィ Ⅱ(専属),Luffy II (Exclusive),衣装 / セット,Outfit / Set,,,,,5090,10837,7635,8,直近30日間の取引データなし,2026-11-24
+859,ルフィ Ⅲ(専属),Luffy III (Exclusive),衣装 / セット,Outfit / Set,,,,,6362,10409,10180,10,直近30日間の取引データなし,2026-11-24
+860,ルフィ Ⅳ(専属),Luffy IV (Exclusive),衣装 / セット,Outfit / Set,,,,,8271,277674,13997,5,直近30日間の取引データなし,2026-11-24
+861,ルフィ Ⅴ(専属),Luffy V (Exclusive),衣装 / セット,Outfit / Set,,,,,15717,16132,19087,2,直近30日間の取引データなし,2026-11-24
+862,ルフィ:ワノ国討ち入り(専属),Luffy: Wano Country Infiltration (Exclusive),衣装 / セット,Outfit / Set,,,,,20360,49069,38175,3,直近30日間の取引データなし,2026-11-24
+863,81式:ランベントライト 豪華版Ⅰ(専属),Type 81: Lambent Light Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,22905,0,直近30日間の取引データなし,2026-11-24
+864,トレーディングコラボガチャBOX:BLEACH Vol.1,Tradable Lucky Draw: BLEACH Vol.1,お宝 / 宝箱,Treasure / treasure chest,633,2026-11-14,1,633,1591,1591,318,600,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+865,トレーディングコラボガチャBOX:BLEACH Vol.2,Tradable Lucky Draw: BLEACH Vol.2,お宝 / 宝箱,Treasure / treasure chest,,,,,938,1591,318,878,直近30日間の取引データなし,2026-11-24
+866,M16A4:青薔薇の剣 先鋒版(専属),M16A4: Blue Rose Sword Gun Vanguard Edition (Exclusive),銃器,Weapon,,,,,1174,3019,2227,17,直近30日間の取引データなし,2026-11-24
+867,M16A4:青薔薇の剣 豪華版(専属),M16A4: Blue Rose Sword Gun Enjoy Edition (Exclusive),銃器,Weapon,2068,2026-11-23,1,2068,2068,4497,4136,7,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+868,M16A4:青薔薇の剣 進化版(専属),M16A4: Blue Rose Sword Gun Advanced Edition (Exclusive),銃器,Weapon,,,,,7953,7953,7953,1,直近30日間の取引データなし,2026-11-24
+869,M16A4:青薔薇の剣 旗艦版(専属),M16A4: Blue Rose Sword Gun Flagship Edition (Exclusive),銃器,Weapon,,,,,7158,7158,14316,5,直近30日間の取引データなし,2026-11-24
+870,M16A4:青薔薇の剣 豪華版Ⅰ(専属),M16A4: Blue Rose Sword Gun Deluxe Edition I (Exclusive),銃器,Weapon,,,,,0,0,22905,0,直近30日間の取引データなし,2026-11-24
+871,M16A4:青薔薇の剣 豪華版Ⅱ(専属),M16A4: Blue Rose Sword Gun Deluxe Edition II (Exclusive),銃器,Weapon,,,,,15906,15906,31812,2,直近30日間の取引データなし,2026-11-24
+872,81式:ランベントライト 先鋒版(専属),Type 81: Lambent Light Vanguard Edition (Exclusive),銃器,Weapon,,,,,1113,2747,2227,21,直近30日間の取引データなし,2026-11-24
+873,81式:ランベントライト 豪華版(専属),Type 81: Lambent Light Enjoy Edition (Exclusive),銃器,Weapon,,,,,2068,11944,4136,12,直近30日間の取引データなし,2026-11-24
+874,ルフィ Ⅵ(専属),Luffy VI (Exclusive),衣装 / セット,Outfit / Set,,,,,15661,29512,25450,3,直近30日間の取引データなし,2026-11-24
+875,81式:ランベントライト 進化版(専属),Type 81: Lambent Light Advanced Edition (Exclusive),銃器,Weapon,,,,,4891,4904,7953,2,直近30日間の取引データなし,2026-11-24
+876,81式:ランベントライト 旗艦版(専属),Type 81: Lambent Light Flagship Edition (Exclusive),銃器,Weapon,7158,2026-10-27,1,7158,7158,7158,14316,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+877,81式:ランベントライト 豪華版Ⅱ(専属),Type 81: Lambent Light Deluxe Edition II (Exclusive),銃器,Weapon,,,,,0,0,31812,0,直近30日間の取引データなし,2026-11-24
+878,81式:ランベントライト 豪華版Ⅲ(専属),Type 81: Lambent Light Deluxe Edition III (Exclusive),銃器,Weapon,,,,,19087,19095,38175,2,直近30日間の取引データなし,2026-11-24
+883,M4A1:ニキシア 先鋒版(専属),M4A1: Nyxia Vanguard Edition (Exclusive),銃器,Weapon,,,,,795,2857,1591,27,直近30日間の取引データなし,2026-11-24
+884,M4A1:ニキシア 豪華版(専属),M4A1: Nyxia Enjoy Edition (Exclusive),銃器,Weapon,1591,2026-11-16,1,1591,1591,4070,3181,20,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+885,M4A1:ニキシア 旗艦版(専属),M4A1: Nyxia Flagship Edition (Exclusive),銃器,Weapon,3181,2026-11-07,1,3181,3181,7239,6362,16,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+886,95式:ガイウス 先鋒版(専属),QBZ-95: Gaius Vanguard Edition (Exclusive),銃器,Weapon,,,,,1554,7753,1591,7,直近30日間の取引データなし,2026-11-24
+887,95式:ガイウス 豪華版(専属),QBZ-95: Gaius Enjoy Edition (Exclusive),銃器,Weapon,,,,,2154,3495,3181,9,直近30日間の取引データなし,2026-11-24
+888,95式:ガイウス 旗艦版(専属),QBZ-95: Gaius Flagship Edition (Exclusive),銃器,Weapon,3181,2026-11-08,2,3181,3181,3803,6362,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+889,安全第一,Safety First,チップ / チップ,Chip / Chip,,,,,159,159062,318,284,直近30日間の取引データなし,2026-11-24
+890,腕自慢,Get Busy Hands,チップ / チップ,Chip / Chip,159,2026-11-21,1,159,159,159062,318,865,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+891,一輪走行,Unicycle Drive,チップ / チップ,Chip / Chip,2774,2026-11-16,2,12029,159,159062,318,1244,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+892,M16A4:雲 先鋒版(専属),M16A4: Cloud Vanguard Edition (Exclusive),銃器,Weapon,,,,,795,159062,1591,227,直近30日間の取引データなし,2026-11-24
+893,M16A4:雲 豪華版(専属),M16A4: Cloud Enjoy Edition (Exclusive),銃器,Weapon,,,,,1591,3921,3181,55,直近30日間の取引データなし,2026-11-24
+894,M16A4:雲 旗艦版(専属),M16A4: Cloud Flagship Edition (Exclusive),銃器,Weapon,3181,2026-11-08,1,3181,3181,7247,6362,33,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+912,脱走S2･殿堂の秘宝(取引可能),Breakout S2: Radiant Golden Treasure (Tradeable),お宝 / 宝箱,Treasure / treasure chest,,,,,2922,2922,318,10,直近30日間の取引データなし,2026-11-24
+913,AK-47:日輪の倚天 先鋒版,AK47: Celestial Sunpiercer Vanguard Edition,銃器,Weapon,,,,,3915,3959,3181,2,直近30日間の取引データなし,2026-11-24
+914,AK-47:日輪の倚天 豪華版,AK47: Celestial Sunpiercer Enjoy Edition,銃器,Weapon,,,,,3977,6560,3977,14,直近30日間の取引データなし,2026-11-24
+915,AK-47:日輪の倚天 進化版,AK47: Celestial Sunpiercer Enterprising Edition,銃器,Weapon,,,,,0,0,4772,0,直近30日間の取引データなし,2026-11-24
+916,AK-47:日輪の倚天 旗艦版,AK47: Celestial Sunpiercer Flagship Edition,銃器,Weapon,,,,,8876,11088,6362,7,直近30日間の取引データなし,2026-11-24
+917,AK-47:日輪の倚天 豪華版Ⅰ,AK47: Celestial Sunpiercer Deluxe Edition I,銃器,Weapon,,,,,0,0,12725,0,直近30日間の取引データなし,2026-11-24
+918,AK-47:日輪の倚天 豪華版Ⅱ,AK47: Celestial Sunpiercer Deluxe Edition II,銃器,Weapon,,,,,10172,10172,19087,1,直近30日間の取引データなし,2026-11-24
+919,AK-47:日輪の倚天･神兵DX Ⅰ,AK47: Celestial Sunpiercer - Ultimate Divine Weapon I,銃器,Weapon,17400,2026-11-23,4,17963,22358,30817,31812,6,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+920,AK-47:日輪の倚天･神兵DX Ⅱ,AK47: Celestial Sunpiercer - Ultimate Divine Weapon II,銃器,Weapon,38175,2026-11-09,1,38175,38175,58936,76350,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+921,AWM:ギャラクシーブレイカー･戦艦DX Ⅰ,AWM: Dawn Breaker of the Galaxy - Ultimate Battleship I,不明（カテゴリタグなし）,,17401,2026-11-22,9,16770,17443,31812342,31812,12,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+922,AK-47:日輪の倚天 豪華版Ⅲ,AK47: Celestial Sunpiercer Deluxe Edition III,銃器,Weapon,,,,,0,0,25450,0,直近30日間の取引データなし,2026-11-24
+923,S38サプライズ･超レア(取引可能),S38 Surprise - Super Rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,,,,,1425,2473,318,4,直近30日間の取引データなし,2026-11-24
+924,「シャルロッテ」取引可能BOX,"""Iridescent Dream"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,3235,2026-11-23,6,3019,2642,15906,2532,17,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+926,クロノエージェント･スペシャルBOX,Epochal Energy - Gilt Gift Box,お宝 / 宝箱,Treasure / treasure chest,,,,,15620,23452,17815,2,直近30日間の取引データなし,2026-11-24
+927,ウラノエージェント･スペシャルBOX,Epochal Shadow - Gilt Gift Box,お宝 / 宝箱,Treasure / treasure chest,,,,,13361,13361,17815,1,直近30日間の取引データなし,2026-11-24
+936,星霊の旅人(専属),Celestial Traveler (Exclusive),不明（カテゴリタグなし）,,,,,,795,9339,1591,76,直近30日間の取引データなし,2026-11-24
+937,冬物語:定春(専属),Winter Encounter: Sadaharu (Exclusive),不明（カテゴリタグなし）,,,,,,2448,4350,1591,3,直近30日間の取引データなし,2026-11-24
+938,電力循環,Electricity Cycle,チップ / チップ,Chip / Chip,,,,,159,97809,318,169,直近30日間の取引データなし,2026-11-24
+939,ゾロ Ⅰ(専属),Zoro I (Exclusive),衣装 / セット,Outfit / Set,4901,2026-11-09,2,4905,6712,50683,6362,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+940,ゾロ Ⅱ(専属),Zoro II (Exclusive),衣装 / セット,Outfit / Set,5090,2026-11-24,5,5161,5090,5092,7635,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+941,ゾロ Ⅲ(専属),Zoro III (Exclusive),衣装 / セット,Outfit / Set,,,,,6362,6362,10180,1,直近30日間の取引データなし,2026-11-24
+942,トレーニングコラボガチャBOX:エヴァ第3弾絶版,Tradeable Lucky Draw: EVA No.3 Limited Edition,お宝 / 宝箱,Treasure / treasure chest,954,2026-11-22,4,954,954,1452,1050,394,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+943,新年のカエルサプライズ･超レア(取引可能),New Year Limited Frog Head Surprise - Super Rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,,,,,585,585,318,2,直近30日間の取引データなし,2026-11-24
+944,S39サプライズ･超レア(取引可能),S39 Surprise - Super Rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,293,2026-11-06,1,293,318,7953,318,14,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+945,専用衣装LvUPチケット(取引可能),Exclusive Outfit Upgrade Voucher (Tradeable),お宝 / 宝箱,Treasure / treasure chest,318,2026-11-24,43,348,318,15901,636,214,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+946,M4A1:ハオ 先鋒版(専属),M4A1: Asakura Hao Vanguard Edition (Exclusive),銃器,Weapon,1225,2026-10-26,1,1225,795,21510,1591,36,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+947,M4A1:ハオ 豪華版(専属),M4A1: Asakura Hao Enjoy Edition (Exclusive),銃器,Weapon,,,,,1947,3693,3181,13,直近30日間の取引データなし,2026-11-24
+948,M4A1:ハオ 旗艦版(専属),M4A1: Asakura Hao Flagship Edition (Exclusive),銃器,Weapon,,,,,3181,7056,6362,7,直近30日間の取引データなし,2026-11-24
+949,M4A1:ハオ 旗艦版+(専属),M4A1: Asakura Hao Flagship Edition+ (Exclusive),銃器,Weapon,6362,2026-11-24,12,6362,6362,12725,12725,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+950,MC-X:麻倉 葉 先鋒版(専属),MC-X: Yoh Asakura Pioneer Edition (Exclusive),銃器,Weapon,795,2026-11-21,1,795,795,10622,1591,63,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+951,MC-X:麻倉 葉 豪華版(専属),MC-X: Yoh Asakura Enjoy Edition (Exclusive),銃器,Weapon,1591,2026-11-10,2,1591,1591,1622,3181,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+952,MC-X:麻倉 葉 旗艦版(専属),MC-X: Yoh Asakura Flagship Edition (Exclusive),銃器,Weapon,,,,,0,0,6362,0,直近30日間の取引データなし,2026-11-24
+953,MC-X:麻倉 葉 旗艦版+(専属),MC-X: Yoh Asakura Flagship Edition+ (Exclusive),銃器,Weapon,6362,2026-11-21,1,6362,6362,9693,12725,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+954,M4A1:聖銃女王(専属),M4A1: Gunfire Coronation (Exclusive),銃器,Weapon,2003,2026-11-24,5,1901,2230,19563,1904,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+955,ゾロ Ⅳ(専属),Zoro IV (Exclusive),衣装 / セット,Outfit / Set,,,,,11171,15216,13997,5,直近30日間の取引データなし,2026-11-24
+956,ゾロ Ⅴ(専属),Zoro V (Exclusive),衣装 / セット,Outfit / Set,,,,,10816,10816,19087,1,直近30日間の取引データなし,2026-11-24
+957,ゾロ Ⅵ(専属),Zoro VI (Exclusive),衣装 / セット,Outfit / Set,,,,,13997,13997,25450,1,直近30日間の取引データなし,2026-11-24
+958,ゾロ:ワノ国討ち入り(専属),Zoro: Wano Country Infiltration (Exclusive),衣装 / セット,Outfit / Set,,,,,20360,20360,38175,2,直近30日間の取引データなし,2026-11-24
+959,平常心,Calm and Collected,チップ / チップ,Chip / Chip,159,2026-11-21,2,159,159,159062,318,212,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+960,回路制御,Circuit Control,チップ / チップ,Chip / Chip,159,2026-11-21,1,159,159,21066,318,214,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+961,2人協力,Duo Collaboration,チップ / チップ,Chip / Chip,159,2026-11-21,2,159,159,31917,318,238,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+962,オーバーヒート,Power Overload,チップ / チップ,Chip / Chip,,,,,159,15986,318,238,直近30日間の取引データなし,2026-11-24
+963,孤独な旅,Lonely Journey,チップ / チップ,Chip / Chip,652,2026-11-24,4,344,159,158583,582,372,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+971,X型記念:戦龍(専属),Model X Commemoration: Dragon War (Exclusive),不明（カテゴリタグなし）,,,,,,795,2123,1591,105,直近30日間の取引データなし,2026-11-24
+972,サンジ I(専属),Sanji I (Exclusive),衣装 / セット,Outfit / Set,,,,,4454,7040,6362,24,直近30日間の取引データなし,2026-11-24
+973,サンジ II(専属),Sanji II (Exclusive),衣装 / セット,Outfit / Set,,,,,5090,9952,7635,18,直近30日間の取引データなし,2026-11-24
+974,サンジ III(専属),Sanji III (Exclusive),衣装 / セット,Outfit / Set,,,,,6362,8656,10180,4,直近30日間の取引データなし,2026-11-24
+975,サンジ IV(専属),Sanji IV (Exclusive),衣装 / セット,Outfit / Set,,,,,0,0,13997,0,直近30日間の取引データなし,2026-11-24
+976,サンジ V(専属),Sanji V (Exclusive),衣装 / セット,Outfit / Set,,,,,0,0,19087,0,直近30日間の取引データなし,2026-11-24
+977,サンジ VI(専属),Sanji VI (Exclusive),衣装 / セット,Outfit / Set,,,,,0,0,25450,0,直近30日間の取引データなし,2026-11-24
+978,サンジ:ワノ国討ち入り(専属),Sanji: Wano Country Infiltration (Exclusive),衣装 / セット,Outfit / Set,,,,,20360,33915,38175,2,直近30日間の取引データなし,2026-11-24
+979,「もこもこクマさん」取引可能BOX,【Hug Bear】Tradable Gift Box,お宝 / 宝箱,Treasure / treasure chest,11656,2026-11-24,12,11871,11658,15906,12971,8,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+980,脱走S3･殿堂の秘宝(取引可能),Breakout S3: Radiant Golden Treasure (Tradeable),お宝 / 宝箱,Treasure / treasure chest,159,2026-11-24,4,159,159,1599,318,1309,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+981,MP5:不知火舞 先鋒版(専属),MP5: Mai Shiranui Vanguard Edition (Exclusive),不明（カテゴリタグなし）,,4834,2026-11-14,9,5057,5818,6307,1591,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+982,MP5:不知火舞 豪華版(専属),MP5: Mai Shiranui Enjoy Edition (Exclusive),不明（カテゴリタグなし）,,7734,2026-11-23,32,6838,0,0,7516,0,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+983,MP5:不知火舞 旗艦版(専属),MP5: Mai Shiranui Flagship Edition (Exclusive),不明（カテゴリタグなし）,,10582,2026-11-24,14,10007,11139,11740,11446,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+984,SACR-L:不知火舞 先鋒版(専属),SACR-L: Mai Shiranui Vanguard Edition (Exclusive),銃器,Weapon,1449,2026-11-14,5,1382,3181,3181,1591,3,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+985,SACR-L:不知火舞 豪華版(専属),SACR-L: Mai Shiranui Enjoy Edition (Exclusive),銃器,Weapon,2695,2026-11-17,5,2693,2133,4931,3181,13,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+986,SACR-L:不知火舞 旗艦版(専属),SACR-L: Mai Shiranui Flagship Edition (Exclusive),銃器,Weapon,4608,2026-11-16,3,4989,4263,6846,6362,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+992,S40サプライズ･超レア(取引可能),S40 Surprise - Super Rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,,,,,254,617,318,22,直近30日間の取引データなし,2026-11-24
+996,車両チップ：氷と炎,Vehicle Chip: Ice and Fire,チップ / チップ,Chip / Chip,2424,2026-11-24,33,4862,2424,8505,2664,11,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+997,AK-47:天翔ける金龍 超DX Ⅰ,AK-47: Dragon Roar Sky Ultra Supreme I,銃器,Weapon,,,,,51116,702641,39765,5,直近30日間の取引データなし,2026-11-24
+998,AK-47:天翔ける金龍 超DX Ⅱ,AK-47: Dragon Roar Sky Ultra Supreme II,銃器,Weapon,31812,2026-11-14,3,31812,31812,69158,39765,16,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+999,AK-47:天翔ける金龍 超DX Ⅲ,AK-47: Dragon Roar Sky Ultra Supreme III,銃器,Weapon,63625,2026-11-06,3,63625,63625,127249,79531,19,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1000,AK-47:天翔ける金龍 超DX Ⅳ,AK-47: Dragon Roar Sky Ultra Supreme IV,銃器,Weapon,127249,2026-11-20,1,127249,127249,127253,159062,7,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1001,AK-47:天翔ける金龍 超DX Ⅴ,AK-47: Dragon Roar Sky Ultra Supreme V,銃器,Weapon,254499,2026-11-22,3,254499,254499,254500,318123,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1002,AK-47:天翔ける金龍 超DX Ⅵ,AK-47: Dragon Roar Sky Ultra Supreme VI,銃器,Weapon,445373,2026-11-18,5,445373,445373,445373,636247,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1003,車両チップ：炎の力,Vehicle Chip: Power of Flame,チップ / チップ,Chip / Chip,2133,2026-11-24,39,2343,2413,19087,2508,22,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1004,車両チップ：雷の力,Vehicle Chip: Power of Thunder,チップ / チップ,Chip / Chip,2523,2026-11-22,13,1792,2230,4824,2774,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1010,「ナイトバタフライ」取引可能BOX,"""Chaos Butterfly"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,6668,2026-11-19,16,5904,6595,15906,7334,36,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1017,車両チップ:リバース,Vehicle Chip: Counterflow Core,チップ / チップ,Chip / Chip,1113,2026-11-18,7,1792,2227,15906,2227,6,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1018,トレーディングコラボガチャBOX:竈門炭治郎＆無限列車,Tradable Gacha: Tanjiro Kamado & Mugen Train Supply Box,お宝 / 宝箱,Treasure / treasure chest,487,2026-11-22,4,443,654,1470,515,659,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1019,脱走･鎏金のお宝(取引可能),Breakout: Radiant Golden Treasure (Tradeable),お宝 / 宝箱,Treasure / treasure chest,159,2026-11-23,5,159,159,15906,318,20358,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1032,「ふわふわビキニ」取引可能BOX,"""Innocent Fantasy"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1352,2026-11-12,1,1352,1368,15906,318,11,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1038,95式:JACKPOT 豪華版,QBZ-95: Golden Blade Enjoy Edition,銃器,Weapon,2068,2026-11-20,2,2068,2068,1272494,3977,226,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1039,95式:JACKPOT 旗艦版,QBZ-95: Golden Blade Flagship Edition,銃器,Weapon,4454,2026-11-10,1,4454,4454,32162,6362,121,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1040,95式:JACKPOT 先鋒版,QBZ-95: Golden Blade Vanguard Edition,銃器,Weapon,1591,2026-11-17,3,1591,1591,6060,3181,65,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1041,95式:JACKPOT 進化版,QBZ-95: Golden Blade Advancement Edition,銃器,Weapon,,,,,5192,6070,4772,2,直近30日間の取引データなし,2026-11-24
+1042,95式:JACKPOT 豪華版Ⅰ,QBZ-95: Golden Blade Deluxe Edition I,銃器,Weapon,7953,2026-11-21,1,7953,0,0,12725,0,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1043,95式:JACKPOT 豪華版Ⅱ,QBZ-95: Golden Blade Deluxe Edition II,銃器,Weapon,,,,,9544,26299,19087,39,直近30日間の取引データなし,2026-11-24
+1044,95式:JACKPOT 豪華版Ⅲ,QBZ-95: Golden Blade Deluxe Edition III,銃器,Weapon,,,,,15561,15561,25450,1,直近30日間の取引データなし,2026-11-24
+1045,95式:JACKPOT･周年DX Ⅰ,QBZ-95: Golden Blade - Anniversary Ultimate I,銃器,Weapon,15906,2026-11-22,15,15906,15906,1590617,31812,95,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1046,95式:JACKPOT･周年DX Ⅱ,QBZ-95: Golden Blade - Anniversary Ultimate II,銃器,Weapon,38175,2026-11-22,3,38175,38175,38175,76350,13,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1047,95式:JACKPOT･周年DX Ⅲ,QBZ-95: Golden Blade - Anniversary Ultimate III,銃器,Weapon,103390,2026-11-21,1,103390,103390,103390,206780,1,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1048,「​JKニキシア」取引可能BOX,"""Agent Nyxia·JK"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1066,2026-11-10,2,1071,1125,7562,318,21,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1054,「うさうさエプロン」取引可能BOX,"""Baking Game"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1382,2026-11-24,2,1327,1401,15798,1519,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1055,車両チップ：サイレント,Vehicle Chip: Titmouse,チップ / チップ,Chip / Chip,1113,2026-11-24,8,2090,1947,9883,2227,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1067,「夏の約束」取引可能BOX,"""Sparkling Promise"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,3977,2026-11-15,8,3684,4750,9178,318,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1068,コラボガチャBOX:進撃の巨人第4弾(取引可能),Lucky Draw: Attack on Titan collaboration Vol.4 (Tradable),お宝 / 宝箱,Treasure / treasure chest,428,2026-11-14,2,685,455,15906,318,2127,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1069,車両チップ：破刃,Vehicle Chip: Broken Blade,チップ / チップ,Chip / Chip,2125,2026-11-15,6,1856,2435,16595,2227,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1093,金のサメサプライズ･超レア(取引可能),Golden Shark Surprise - Super Rare (Tradeable),お宝 / 宝箱,Treasure / treasure chest,511,2026-11-15,1,511,2911,5624,318,2,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1094,【中華ゾンビ娘】取引可能BOX,"""Bounce Phantom"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,3286,2026-11-23,18,3038,3316,15798,3359,27,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1104,車両チップ：十五夜,Vehicle Chip: Mid-Autumn,チップ / チップ,Chip / Chip,1931,2026-11-22,9,2306,1850,15906,2257,6,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1110,車両チップ：無限,Vehicle Chip: Infinite,チップ / チップ,Chip / Chip,1947,2026-11-22,7,1974,2038,3924,2227,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1111,LI-NING 極光天行(専属),Li-Ning Jiguang Tianxing (Exclusive),衣装 / セット,Outfit / Set,23608,2026-11-24,30,21207,24133,26102,23514,4,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1112,LI-NING レトロシリーズ(専属),Li-Ning Retro Series (Exclusive),衣装 / セット,Outfit / Set,8395,2026-11-24,41,7632,8389,9824,8760,9,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1113,LI-NING 極光風行(専属),Li-Ning Jiguang Fengxing (Exclusive),衣装 / セット,Outfit / Set,6676,2026-11-24,33,6228,6685,8704,7059,13,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1134,「​トレインスター」取引可能BOX,"""Railway Intern"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1136,2026-11-19,3,1135,1161,15906,1249,7,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1144,【クールシュガー】取引可能BOX,"""Broken Sweetie"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1554,2026-11-23,19,1567,1551,15906,1673,174,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1201,【いちごムース】取引可能BOX,"""Strawberry Ice Cream"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,239,2026-11-19,7,263,237,5400,318,193,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1221,【ボンボンショコラ】取引可能BOX,"""Heart of Wine Romance"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,568,2026-11-19,7,618,582,9474,324,25,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1253,車両チップ：春芽,Vehicle Chip: Spring Bud,チップ / チップ,Chip / Chip,1113,2026-11-21,5,1754,1169,15906,2227,6,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1254,【お花見さんぽ】取引可能BOX,"""Cherry Blossom Day"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,969,2026-11-23,12,605,582,2914,822,78,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1310,トレーディングコラボガチャBOX:『東京喰種』コラボ第6弾,Tradable Gacha: Tokyo Ghoul Season 6,お宝 / 宝箱,Treasure / treasure chest,375,2026-11-24,6,262,242,15574,371,614,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1316,「ルージュの法則」取引可能BOX,"""Scarlet Law"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,282,2026-11-19,3,525,288,985,713,33,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1327,トレーディングコラボガチャBOX:にじさんじ第4弾,Tradable Gacha: NIJISANJI Vol.4,お宝 / 宝箱,Treasure / treasure chest,985,2026-11-22,5,3389,859,4737,1082,299,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1328,【恋する昭和レトロ】取引可能BOX,"""Modern Times"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1069,2026-11-22,3,970,1591,3181,1175,10,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1368,【恋のメモ帳】取引可能BOX,【白日恋语】可交易礼盒,お宝 / 宝箱,Treasure / treasure chest,1432,2026-11-24,23,1647,1432,3798,1575,22,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1407,トレーディングコラボガチャBOX:BLEACH 第二弾,Tradable Lucky Draw: BLEACH Vol.2,お宝 / 宝箱,Treasure / treasure chest,,,,,624,1428,318,533,直近30日間の取引データなし,2026-11-24
+1408,【幻蝶の物語】取引可能BOX,"""Butterfly Tale"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,587,2026-11-21,10,586,584,2446,829,11,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1446,M16A4:レゾナンス･ゼロ 先鋒版,M16A4: Dark Matter Vanguard Edition,銃器,Weapon,2033,2026-11-19,8,1905,1591,58019,3181,40,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1447,M16A4:レゾナンス･ゼロ 豪華版,M16A4: Dark Matter Enjoy Edition,銃器,Weapon,2068,2026-11-20,4,2086,2068,76226,3977,94,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1448,M16A4:レゾナンス･ゼロ 進化版,M16A4: Dark Matter Hum Advanced Edition,銃器,Weapon,,,,,0,0,4772,0,直近30日間の取引データなし,2026-11-24
+1449,M16A4:レゾナンス･ゼロ 旗艦版,M16A4: Dark Matter Flagship Edition,銃器,Weapon,4454,2026-11-19,3,4454,4454,7982,6362,68,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1450,M16A4:レゾナンス･ゼロ 豪華版Ⅰ,M16A4: Dark Matter Deluxe Edition I,銃器,Weapon,,,,,9544,9544,12725,1,直近30日間の取引データなし,2026-11-24
+1451,M16A4:レゾナンス･ゼロ 豪華版Ⅱ,M16A4: Dark Matter Deluxe Edition II,銃器,Weapon,9544,2026-11-24,1,9544,9544,19722,19087,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1452,M16A4:レゾナンス･ゼロ 豪華版Ⅲ,M16A4: Dark Matter Deluxe Edition III,銃器,Weapon,,,,,0,0,25450,0,直近30日間の取引データなし,2026-11-24
+1453,M16A4:レゾナンス･ゼロ 周年DX Ⅰ,M16A4: Dark Matter Resonance - Anniversary Supreme I,銃器,Weapon,15906,2026-11-24,51,16092,15906,31812,31812,14,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1454,M16A4:レゾナンス･ゼロ 周年DX Ⅱ,M16A4: Dark Matter Resonance - Anniversary Supreme II,銃器,Weapon,38175,2026-11-07,7,41155,38175,46947,76350,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1455,M16A4:レゾナンス･ゼロ 周年DX Ⅲ,M16A4: Dark Matter Resonance - Anniversary Supreme III,銃器,Weapon,,,,,176083,176083,206780,1,直近30日間の取引データなし,2026-11-24
+1456,トレーディングガチャBOX:『エヴァ』第4弾,Tradable Lucky Draw: Evangelion Phase 4,お宝 / 宝箱,Treasure / treasure chest,716,2026-11-20,8,739,716,4872,787,391,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1463,ゼロ･ヴァンガード･スペシャルBOX,Stellar Core Era · Golden Gift Box,お宝 / 宝箱,Treasure / treasure chest,,,,,8907,19048,17815,92,直近30日間の取引データなし,2026-11-24
+1464,ヴェスパーライン･スペシャルBOX,Stardust Echo · Golden Gift Box,お宝 / 宝箱,Treasure / treasure chest,,,,,8907,55672,17815,69,直近30日間の取引データなし,2026-11-24
+1465,【荊棘の口づけ】取引可能BOX,"""Bramble Kiss"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,1241,2026-11-24,13,819,1231,15906,1428,29,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1566,トレーディングコラボガチャBOX:鬼滅の刃 第2弾,Tradable Lucky Draw: Demon Slayer: Kimetsu no Yaiba Phase 2,お宝 / 宝箱,Treasure / treasure chest,436,2026-11-14,1,436,636,15906,318,477,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1620,トレーディングコラボガチャBOX:Fate/stay night [Heaven's Feel] 第2弾,Tradable Lucky Draw: Fate/stay night [Heaven's Feel] Vol. 2,お宝 / 宝箱,Treasure / treasure chest,,,,,0,0,318,0,直近30日間の取引データなし,2026-11-24
+1882,9周年･栄光殿堂チケットBOX（取引可能）,9th Anniversary · Hall of Glory Exclusive Draw Ticket Gift Box (Tradable),不明（カテゴリタグなし）,,,,,,8907,19518,17815,98,直近30日間の取引データなし,2026-11-24
+1883,【ハロウィンポリス】取引可能BOX,"""Sweet Pursuit"" Tradeable Gift Box",お宝 / 宝箱,Treasure / treasure chest,455,2026-11-22,3,313,463,15906,382,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1950,M4A1:天光のペガサス 超DX Ⅰ,M4A1: Skybreaker Pegasus Ultra Ultimate I,銃器,Weapon,31812,2026-11-12,1,31812,31812,40733,39765,5,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1951,M4A1:天光のペガサス 超DX Ⅱ,M4A1: Skybreaker Pegasus Ultra Supreme II,銃器,Weapon,31812,2026-11-22,11,31812,31812,47289,39765,145,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1952,M4A1:天光のペガサス 超DX Ⅲ,M4A1: Skybreaker Pegasus Ultra Supreme III,銃器,Weapon,63625,2026-11-20,6,63625,63625,89154,79531,94,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1953,M4A1:天光のペガサス 超DX Ⅳ,M4A1: Skybreaker Pegasus Ultra Supreme IV,銃器,Weapon,127249,2026-11-24,2,127249,127249,165580,159062,19,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1954,M4A1:天光のペガサス 超DX Ⅴ,M4A1: Skybreaker Pegasus Ultra Supreme V,銃器,Weapon,254499,2026-11-24,2,254499,254499,254499,318123,16,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
+1955,M4A1:天光のペガサス 超DX Ⅵ,M4A1: Skybreaker Pegasus Ultra Ultimate VI,銃器,Weapon,445373,2026-11-24,6,445373,445373,685529,636247,15,※価格トレンドAPI(日次データ)に基づく近似値,2026-11-24
