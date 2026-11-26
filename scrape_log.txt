@@ -1,4 +1,4 @@
-[為替レート] 1USD = 159.238818円 (open.er-api.com (取得日時: Wed, 25 Nov 2026 00:02:31 +0000))
+[為替レート] 1USD = 159.175491円 (open.er-api.com (取得日時: Thu, 26 Nov 2026 00:02:31 +0000))
 [EN][一覧取得] page 1/10  累計40件
 [EN][一覧取得] page 2/10  累計80件
 [EN][一覧取得] page 3/10  累計120件
@@ -21,6 +21,15 @@
 [JA][一覧取得] page 9/10  累計360件
 [JA][一覧取得] page 10/10  累計366件
 [JA][一覧取得完了] 取得件数=366  API申告件数=366
+    [リトライ 1/3] goods_id=443 例外: APIRequestContext.get: Request timed out after 30000ms
+Call log:
+→ GET https://api.lootbar.com/api/market/goods/price_history/?game=knivesout&goods_id=443&days=30&subgame_name=10007
+  -   user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+  -   accept: */*
+  -   accept-encoding: gzip,deflate,br
+  -   Referer: https://www.lootbar.com/ja/market/goods/443
+  -   cookie: _ga=GA1.1.656126938.1795723291; lastRskxRun=1795723290978; rskxRunCookie=0; rCookie=0q724j9a0prm2echotfgk4nmwxza737; _gcl_au=1.1.325286851.1795723291; forterToken=02c11ee8d75c41759df40a8b788355e0_1795723290941__UDF43-m4_25ck_; _ga_KMQ171GYJM=GS2.1.s1795723290$o1$g0$t1795723294$j56$l0$h2126093491
+
 [進捗] 50/366 件処理完了
 [進捗] 100/366 件処理完了
 [進捗] 150/366 件処理完了
@@ -29,8 +38,8 @@
 [進捗] 300/366 件処理完了
 [進捗] 350/366 件処理完了
 [進捗] 366/366 件処理完了
-[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-25.csv
+[保存] スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-26.csv
 [保存] Web表示用最新データ: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/latest.csv
-[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-24.csv (366件)
+[比較対象] 前回スナップショット: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/data/history/2026-11-25.csv (366件)
 [保存] Excel: /home/runner/work/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/xS3-ZFWBFEJyC2Y3M6fwl-w9i7SrqNUNj36QwVV/output/lootbar_knivesout_market_list.xlsx
 [送信] メール送信完了(BCC方式): 1件の宛先
